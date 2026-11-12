@@ -1,0 +1,38 @@
+/* CSS File for website (website.css)
+Author: Kayry Alvarado
+*/
+
+body {
+    background-color: whitesmoke;
+}
+
+#banner {
+    width:100%;
+    height:"600";
+    background-color:whitesmoke;
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    width:100%;
+    height:"600";
+    background-color: whitesmoke;
+}
+
+nav ul li {
+    color:black;
+    font-size:20px;
+    list-style-type:none;
+    float: left;
+}
+
+nav ul li a {
+color: black;
+text-decoration:none;
+}
+
+nav ul li a {
+    color:grey;
+}
